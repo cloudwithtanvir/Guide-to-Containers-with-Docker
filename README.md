@@ -10,8 +10,9 @@ These instructions will help you run the Dockerized Flask app on your local mach
 
 Clone this repository to your local machine:
 
-git clone 
-cd repo
+``` git clone https://github.com/cloudwithtanvir/Guide-to-Containers-with-Docker.git ``` .
+
+``` cd Guide to Containers with Docker ```
 
 ### Build the Docker image:
 
