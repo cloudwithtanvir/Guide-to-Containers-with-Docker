@@ -12,7 +12,7 @@ Fork this repository to your local machine:
 
 ``` git clone https://github.com/cloudwithtanvir/Guide-to-Containers-with-Docker.git ``` .
 
-``` cd Guide-to-Containers-with-Docker ```
+``` cd Guide to Containers with Docker\01 flask demo ```
 
 ### Build the Docker image:
 
