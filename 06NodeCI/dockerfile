@@ -11,7 +11,7 @@ COPY ./06NodeCI/package*.json ./
 RUN npm install
 
 # Copy the rest of the application code to the working directory
-COPY ./05git-action-CI/* ./
+COPY ./06NodeCI/* ./
 # Expose the port the app runs on
 EXPOSE 3000
 
